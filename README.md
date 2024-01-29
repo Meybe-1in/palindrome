@@ -8,7 +8,7 @@ A palindrome is a word or sentence that's spelled the same way both forward and 
 
 
 
-<img src="assets/palindrome.png" width="250" height="300">
+<img src="assets/palindrome.png" width="350" height="300">
 
 
 ## Used
